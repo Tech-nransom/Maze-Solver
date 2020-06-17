@@ -23,4 +23,9 @@ Example:
 	1)python maze.py fast maze.txt
 	2)python maze.py efficient maze.txt  
 
+Note:
+	Fast means DFS
+	Efficient means BFS
+
 ENJOY (^^)
+
